@@ -1,3 +1,6 @@
 .idea/
 other/
 golang-gorilla
+.env
+/vendor
+!/vendor/vendor.json
